@@ -17,7 +17,7 @@ back文件加下有数据库备份文件，请建立数据库，并导入。同�
 # 关于LayIM
 因为layIM不开源，要是商用的话，建议去http://layim.layui.com  这里，layUI的官网去授权吧  
 
-# 数据库在哪里？  
+# 数据库在哪里？  
 back 文件夹下有一个 snake.sql 导入即可  
 
 # 如何运行  
